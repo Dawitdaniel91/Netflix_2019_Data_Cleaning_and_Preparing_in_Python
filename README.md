@@ -1,6 +1,14 @@
 # Data_Cleaning_and_Preparing_in_Python
 
 
-The purpose of a project is to identify missing data and address missing data. The project is on  clean up the data and prepare it for the next process. The process involves first importing the CVS data into Python, then cleaning the missing data.
+The Project is handling the missing value using Python. After imorting a data into the jupyter notebook, I will  get an idea of what's going on with the data. In this case, I'm looking to see if I see any missing values, identifying outlier, dealing with outliers and text normilization.And I am also identifying and dealing with  diffrent way of handling a missing value , outliers, inconcsitent data and text normalization.The process involves ,the first thing is to load the libraries and the dataset,then cleaning the missing and preparing datadata for further process.
+
+Source of data: https://www.kaggle.com/code/clerissonss/cleaning-and-preparing-data-in-python/input
+
+
+## Data Set
+
+Import 
+
 
 
