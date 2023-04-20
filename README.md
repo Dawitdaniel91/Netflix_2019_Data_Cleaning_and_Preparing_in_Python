@@ -8,7 +8,17 @@ Source of data: https://www.kaggle.com/code/clerissonss/cleaning-and-preparing-d
 
 ## Data Set
 
-Import 
+1. Overview a dataset
+
+https://github.com/Dawitdaniel91/Netflix_2019_Data_Cleaning_and_Preparing_in_Python/blob/main/Task/task%201.JPG
+
+2.data type
+
+https://github.com/Dawitdaniel91/Netflix_2019_Data_Cleaning_and_Preparing_in_Python/blob/main/Task/datatype.JPG
+
+3.data shape
+
+https://github.com/Dawitdaniel91/Netflix_2019_Data_Cleaning_and_Preparing_in_Python/blob/main/Task/datatype.JPG
 
 
 
