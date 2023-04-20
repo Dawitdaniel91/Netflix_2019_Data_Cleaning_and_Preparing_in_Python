@@ -10,15 +10,15 @@ Source of data: https://www.kaggle.com/code/clerissonss/cleaning-and-preparing-d
 
 1. Overview a dataset
 
-https://github.com/Dawitdaniel91/Netflix_2019_Data_Cleaning_and_Preparing_in_Python/blob/main/Task/task%201.JPG
+![image](https://user-images.githubusercontent.com/80365882/233487254-57f526dd-5c2a-4623-b222-d3579005f9e6.png)
 
 2.data type
 
-https://github.com/Dawitdaniel91/Netflix_2019_Data_Cleaning_and_Preparing_in_Python/blob/main/Task/datatype.JPG
+![image](https://user-images.githubusercontent.com/80365882/233487306-0ed802e6-e829-431c-aeb9-b018c9c147ad.png)
 
 3.data shape
 
-https://github.com/Dawitdaniel91/Netflix_2019_Data_Cleaning_and_Preparing_in_Python/blob/main/Task/datatype.JPG
+![image](https://user-images.githubusercontent.com/80365882/233487367-b11d5276-c4f5-403c-8e9b-b06afb6215b1.png)
 
 
 
