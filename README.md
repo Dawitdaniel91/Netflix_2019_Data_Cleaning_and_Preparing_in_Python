@@ -112,7 +112,9 @@ For this case , we can filter out the outliers based on the value revealed by th
 ![image](https://user-images.githubusercontent.com/80365882/233495392-df64fdb0-d00c-4591-aa6a-c79844d50bf4.png)
 
 
+## Summary
 
+Data cleaning is very important before we go to the further analysis. In this porject, we clean a missing data by using different approach . We used the python fuctions like .drop(), dropna(), .isnull() and idetify the outliers data by by boxplot . 
 
 
 
