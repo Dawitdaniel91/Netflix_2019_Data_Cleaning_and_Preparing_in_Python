@@ -114,7 +114,7 @@ For this case , we can filter out the outliers based on the value revealed by th
 
 ## Summary
 
-Data cleaning is very important before we go to the further analysis. In this porject, we clean a missing data by using different approach . We used the python fuctions like .drop(), dropna(), .isnull() and idetify the outliers data by by boxplot . 
+Data cleaning is very important before we go to the further analysis. In this porject, we clean a missing data by using different approach . We used the python fuctions and opraters to clean up or remove missing or empety column or row from our datasets. like .drop(), dropna(), .isnull() and idetify the outliers data by by boxplot . 
 
 
 
