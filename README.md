@@ -104,7 +104,7 @@ We can see the outeliers data using bar
 
 Using the python opereters " & \ to " , we can filter out the outliers.
 
-For this case , we can filter out the outliers based on the value revealed by the boxplot. We fileter out each data <43 minutes muvie and > 158 minutes movies.
+For this case , we filtered out the outliers based on the value revealed by the boxplot. We fileter out each data <43 minutes muvie and > 158 minutes movies.
 
 ![image](https://user-images.githubusercontent.com/80365882/233495359-bf948896-9be8-4567-aafd-29b449115d54.png)
 
